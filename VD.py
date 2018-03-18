@@ -1,5 +1,5 @@
 __author__ = "Wyn Mew"
-__email__ = "miaoqw@deepblueai.com"
+__email__ = "mwinvent@gmail.com"
 __date__ = "March 2018"
 
 import numpy as np
